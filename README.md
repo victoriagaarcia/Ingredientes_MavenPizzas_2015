@@ -1,2 +1,2 @@
-# Ingredientes_Semanales_2015
-Recomendación acerca de la compra semanal de ingredientes para una pizzería en base a los pedidos realizados durante el año 2015.
+# Ingredientes_MavenPizzas_2015
+Recomendación acerca de la compra semanal de ingredientes para una pizzería en base a los pedidos realizados durante el año 2015. Se observan las pizzas pedidas cada semana (contemplando tipo y tamaño) para tener en cuenta los ingredientes que se emplean en cada una de ellas. Se hace la media de las cantidades (en kilogramos) de cada ingrediente por semana, y se devuelven en un archivo de extensión .csv.
